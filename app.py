@@ -12,8 +12,6 @@ def str_combine(name, family_name):
     return f'{name}{family_name}'
 
 
-r = str_combine('Yohei', "Mizuno")
-
-print(r)
+print(str_combine('Yohei', "Mizuno"))
 
 #1
