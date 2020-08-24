@@ -14,5 +14,5 @@ def str_combine(name, family_name):
 
 str_combine('Yohei', "Mizuno")
 
-print(str_combine())
+print(str_combine('Yohei','Mizno'))
 #1
